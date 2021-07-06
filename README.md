@@ -9,4 +9,4 @@
 5. pronto agora só digitar no navegador http://localhost/caecomp/
 
 
-OBS: ignore a parte das cores da tela de login, isso vai ser diferente.
+# OBS: ignore a parte das cores da tela de login, isso vai ser diferente.
